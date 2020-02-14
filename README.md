@@ -45,9 +45,9 @@ If you don't want to deploy your own LINE account link chatbot, you can click fo
 How to Use it
 =============
 
-###### Fork 到自己的 Github
-###### Clone 回到 local
-###### 到 Heroku 去建立一個 project
+Fork 到自己的 Github<br>
+Clone 回到 local<br>
+到 Heroku 去建立一個 project<br>
 
     $ heroku git:remote -a lineaccountlinkusinggolang
     $ git push heroku master
