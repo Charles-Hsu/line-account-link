@@ -45,6 +45,13 @@ If you don't want to deploy your own LINE account link chatbot, you can click fo
 How to Use it
 =============
 
+- Fork 到自己的 Github
+- Clone 回到 local
+- 到 Heroku 去建立一個 project
+
+      $ heroku git:remote -a lineaccountlinkusinggolang
+      
+![](https://github.com/Charles-Hsu/line-account-link/blob/master/img/heroku-git-push.png)
 
 - Input any test will show quick reply "account link" and  "list user"
 
