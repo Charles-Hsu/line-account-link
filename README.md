@@ -50,6 +50,7 @@ How to Use it
 ###### 到 Heroku 去建立一個 project
 
     $ heroku git:remote -a lineaccountlinkusinggolang
+    $ git push heroku master
       
 ![](https://github.com/Charles-Hsu/line-account-link/blob/master/img/heroku-git-push.png)
 
